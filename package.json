@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vandivier/linklist-to-table#readme",
   "devDependencies": {
-    "axios": "^0.15.3"
+    "axios": "^0.15.3",
+    "cheerio": "^0.22.0"
   }
 }
