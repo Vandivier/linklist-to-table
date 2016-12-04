@@ -1,0 +1,22 @@
+{
+  "name": "linklist-to-table",
+  "version": "1.0.0",
+  "description": "txt linklist to csv or sql table with page title",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vandivier/linklist-to-table.git"
+  },
+  "author": "vandivier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vandivier/linklist-to-table/issues"
+  },
+  "homepage": "https://github.com/Vandivier/linklist-to-table#readme",
+  "devDependencies": {
+    "axios": "^0.15.3"
+  }
+}
